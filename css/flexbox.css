@@ -7,10 +7,10 @@
     .main-nav,
     .row {
         display: flex;
-        justify-content: center;
     }
     .main-header {
         flex-direction: column;
+        align-items: center;
     }
     .col {
         flex: 1;
